@@ -8,6 +8,7 @@ export function Home() {
       <p>Explore our resources, tutorials, and community support to enhance your skills.</p>
       <p>Join us in building a better future through technology!</p>
       <h1>Tralalelo tralala</h1>
+      <h2>Bombardino Crocadilo</h2>
     </div>
   );
 }
