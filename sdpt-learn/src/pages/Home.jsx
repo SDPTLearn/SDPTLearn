@@ -3,12 +3,10 @@
 export function Home() {
   return (
     <div className="Home">
-      <h1>Welcome to SDPT-Learn</h1>
-      <p>Your journey to mastering software development starts here.</p>
-      <p>Explore our resources, tutorials, and community support to enhance your skills.</p>
-      <p>Join us in building a better future through technology!</p>
-      <h1>Tralalelo tralala</h1>
-      <h2>Bombardino Crocadilo</h2>
+    <div className="home-header">  <hr /><h1 className="home-title">Tara na't matuto magcode! kasama ng</h1><hr />
+    </div>
+      <img src="/images/SDPTLearnLogoOnly.png" alt="SDPT Learn Logo" className="logo" />
+      <p>Di mo alam kung saan magsisimula? Pindotin mo ako!</p>
     </div>
   );
 }
